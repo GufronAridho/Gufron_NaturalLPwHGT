@@ -1,11 +1,12 @@
-#Natural Language Processing with Hugging Face Transformers
+# The Art of Prompt Engineering
 
-##Author : Svitlana Kramar.)
+### Author : Sina Nazeri (PhD.)
 
-##Description
-Mentee assigment from IBM Advance AI @ Infinite Learning Course completion Natural Language Processing with Hugging Face Transformers from CognativeClass.ai
+## Description
+Mentee assigment from IBM Advance AI @ Infinite Learning Course completion The Art of Prompt Engineering from CognativeClass.ai
 
-##Mentee Info
+## Mentee Info
+
 Name : Gufron Aridho Triasa Putra Irawan
 
 Program : IBM Advance AI
